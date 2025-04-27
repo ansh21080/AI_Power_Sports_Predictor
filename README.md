@@ -65,7 +65,7 @@ The application uses match data from the English Premier League, including:
 
 ## Application Hosting
 The application is hosted on Streamlit Cloud. Access it here:
-[[Streamlit App Link](https://group12aipoweredsportspredictor-8nape93jw5erwapt2hteao.streamlit.app/)](#)
+[[Streamlit App Link](https://aipowersportspredictor-7idugyvjukbwbotkyk6pjp.streamlit.app/)](#)
 
 ## Video Walkthrough
 A detailed video walkthrough of the project can be found here:
